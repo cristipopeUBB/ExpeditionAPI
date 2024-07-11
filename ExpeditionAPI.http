@@ -1,0 +1,6 @@
+@ExpeditionAPI_HostAddress = http://localhost:5286
+
+GET {{ExpeditionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
